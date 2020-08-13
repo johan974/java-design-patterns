@@ -116,7 +116,7 @@
         <module>private-class-data</module>
         <module>object-pool</module>
         <module>dependency-injection</module>
-        <module>naked-objects</module>
+        <!-- <module>naked-objects</module> -->
         <module>front-controller</module>
         <module>repository</module>
         <module>async-method-invocation</module>
@@ -192,7 +192,7 @@
         <module>leader-followers</module>
         <module>strangler</module>
         <module>arrange-act-assert</module>
-        <module>transaction-script</module>
+        <!--<module>transaction-script</module> -->
     </modules>
 
     <repositories>
